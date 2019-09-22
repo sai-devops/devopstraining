@@ -2,4 +2,5 @@ git intial commit
 git second commit
 git third  commit
 git fouth  commit
-git creating branch name A
+git creating branch name 
+git rebase 
