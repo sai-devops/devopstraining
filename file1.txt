@@ -1,1 +1,2 @@
-git intial command
+git intial commit
+git second commit
