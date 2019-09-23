@@ -1,4 +1,4 @@
-igit intial commit
+git intial commit
 git second commit
 git third  commit
 git fouth  commit
