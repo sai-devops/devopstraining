@@ -8,10 +8,6 @@ git rebase after rebase
 git remote branch future
 git remote branch future1
 git practice
-
-
-
-
-
 hellow git
+git practice2
 
