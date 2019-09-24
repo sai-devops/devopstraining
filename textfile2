@@ -1,0 +1,7 @@
+node('master'){
+    stage ('git'){
+        
+        git branch: 'future1', url: 'https://github.com/sai-devops/devopstraining.git'
+    }
+    
+}
