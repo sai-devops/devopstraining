@@ -19,3 +19,4 @@ git intigration in freestyle project
 git rebase ckecking on remot mranch
 git compare and pull request 
 git intigration 
+git job1
