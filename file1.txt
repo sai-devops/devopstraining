@@ -12,4 +12,5 @@ hellow git
 git practice2
 hello world
 java -jar jenkins.war
-git rebase ckecking on remot mranch
+igit rebase ckecking on remot mranch
+git intigration in freestyle project
