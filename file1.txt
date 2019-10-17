@@ -20,3 +20,4 @@ git rebase ckecking on remot mranch
 git compare and pull request 
 git intigration 
 git job1
+git practice
