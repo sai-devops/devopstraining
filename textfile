@@ -1,5 +1,4 @@
-
-de('master'){
+node('master'){
     stage ('git'){ 
         
         git 'https://github.com/sai-devops/devopstraining.git'
